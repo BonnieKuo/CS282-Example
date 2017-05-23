@@ -1,0 +1,6 @@
+F:\Lecture01-Example\Example01\bin\Debug\Example01.exe.config
+F:\Lecture01-Example\Example01\bin\Debug\Example01.exe
+F:\Lecture01-Example\Example01\bin\Debug\Example01.pdb
+F:\Lecture01-Example\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+F:\Lecture01-Example\Example01\obj\Debug\Example01.exe
+F:\Lecture01-Example\Example01\obj\Debug\Example01.pdb
