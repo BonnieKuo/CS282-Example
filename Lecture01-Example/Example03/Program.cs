@@ -12,7 +12,8 @@ namespace Example03
         {
             Student someone = new Student();
             someone.name = "QQ";
-            Console.WriteLine("你的姓名:{0}", someone.name);
+            someone.birthday = "1/1";
+            Console.WriteLine("你的姓名:{0}你的生日:{1}", someone.name,someone.birthday);
         }
     }
 }
